@@ -1,0 +1,12 @@
+{
+  "name": "streamwish-video-extractor",
+  "version": "1.0.0",
+  "description": "Extracción de enlaces de videos usando Puppeteer.",
+  "main": "extractor.js",
+  "scripts": {
+    "start": "node extractor.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
